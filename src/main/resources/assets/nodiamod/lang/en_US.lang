@@ -1,0 +1,96 @@
+//Block
+tile.ruby_block.name=Ruby Block
+tile.saphir_block.name=Saphir Block
+tile.anxite_block.name=Anxite Block
+tile.nodium_block.name=Nodium Block
+tile.saphir_ore.name=Saphir Ore
+tile.ruby_ore.name=Ruby Ore
+tile.anxiteinfected_ore.name=Anxite Infected Ore
+
+//Key
+item.nodium_key.name=Nodium Key
+
+//Tool
+//Saphir
+item.saphir_sword.name=Saphir Sword
+item.saphir_axe.name=Saphir Axe
+item.saphir_pickaxe.name=Saphir Pickaxe
+item.saphir_shovel.name=Saphir Shovel
+
+//Ruby
+item.ruby_sword.name=Ruby Sword
+item.ruby_axe.name=Ruby Axe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+
+//Anxite
+item.anxite_sword.name=Anxite Sword
+item.anxite_axe.name=Anxite Axe
+item.anxite_pickaxe.name=Anxite Pickaxe
+item.anxite_shovel.name=Anxite Shovel
+
+//Nodium
+item.nodium_sword.name=Nodium Sword
+item.nodium_axe.name=Nodium Axe
+item.nodium_pickaxe.name=Nodium Pickaxe
+item.nodium_shovel.name=Nodium Shovel
+
+//Culture
+item.seed_speed_potatoes.name=Speed Potato Seed
+
+//Food
+item.speed_potatoes_food.name=Speed Potato
+
+//Tabs
+itemGroup.NodiaTabArmor=Nodia Tab Armor
+itemGroup.NodiaTabFood=Nodia Tab Food
+itemGroup.NodiaTabBlock=Nodia Tab Block
+itemGroup.NodiaTabTool=Nodia Tab Tool
+itemGroup.NodiaTabItem=Nodia Tab Item
+
+//Entity
+entity.wiwen.name=Wiwen
+
+//Orbe
+item.fire_orbe.name=Fire Orbe
+item.water_orbe.name=Water Orbe
+item.earth_orbe.name=Earth Orbe
+item.wind_orbe.name=Wind Orbe
+
+//Potion Stick
+item.potion_stick_tier_1.name=Potion Stick Tier 1
+item.potion_geme.name=Potion Geme
+
+//Item
+item.saphir.name=Saphir
+item.ruby.name=Ruby
+item.anxite.name=Anxite
+item.nodium.name=Nodium
+item.anxiteinfected.name=Anxite Infected
+
+//Item Armor
+item.saphir_helmet.name=Saphir Helmet
+item.saphir_chestplate.name=Saphir Chestplate
+item.saphir_leggings.name=Saphir Leggings
+item.saphir_boots.name=Saphir boots
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby boots
+item.anxite_helmet.name=Anxite Helmet
+item.anxite_chestplate.name=Anxite Chestplate
+item.anxite_leggings.name=Anxite Leggings
+item.anxite_boots.name=Anxite boots
+item.nodium_helmet.name=Nodium Helmet
+item.nodium_chestplate.name=Nodium Chestplate
+item.nodium_leggings.name=Nodium Leggings
+item.nodium_boots.name=Nodium boots
+
+//Button
+menu.website=Web Site
+menu.connect=Connect to Nodia
+menu.vote=Vote
+menu.shop=Shop
+menu.nodiaversion=Nodia Version :
+menu.pseudo=Your Pseudo :
+menu.change=Change Menu

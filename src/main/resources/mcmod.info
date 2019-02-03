@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nodiamod",
+  "name": "NodiaMod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Criosdu79, Vertuoz"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

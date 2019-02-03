@@ -1,0 +1,93 @@
+//Block
+tile.ruby_block.name=Bloc de Ruby
+tile.saphir_block.name=Bloc de Saphir
+tile.anxite_block.name=Bloc de Anxite
+tile.nodium_block.name=Bloc de Nodium
+tile.saphir_ore.name=Minerais de Saphir
+tile.ruby_ore.name=Minerais de Ruby
+tile.anxiteinfected_ore.name=Minerais d'Anxite Infecté
+
+//Key
+item.nodium_key.name=Clé en Nodium
+
+//Tool
+//Saphir
+item.saphir_sword.name=Epée en Saphir
+item.saphir_axe.name=Hache en Saphir
+item.saphir_pickaxe.name=Pioche en Saphir
+item.saphir_shovel.name=Pelle en Saphir
+
+//Ruby
+item.ruby_sword.name=Epée en Ruby
+item.ruby_axe.name=Hache en Ruby
+item.ruby_pickaxe.name=Pioche en Ruby
+item.ruby_shovel.name=Pelle en Ruby
+
+//Anxite
+item.anxite_sword.name=Epée en Anxite
+item.anxite_axe.name=Hache en Anxite
+item.anxite_pickaxe.name=Pioche en Anxite
+item.anxite_shovel.name=Pelle en Anxite
+
+//Nodium
+item.nodium_sword.name=Epée en Nodium
+item.nodium_axe.name=Hache en Nodium
+item.nodium_pickaxe.name=Hache en Nodium
+item.nodium_shovel.name=Pelle en Nodium
+
+//Culture
+item.seed_speed_potatoes.name=Graine de patate de rapidité
+
+//Food
+item.speed_potatoes_food.name=Patate de rapidité
+
+//Tabs
+itemGroup.NodiaTabArmor=Nodia Tab Armure
+itemGroup.NodiaTabFood=Nodia Tab Nourriture
+itemGroup.NodiaTabBlock=Nodia Tab Bloc
+itemGroup.NodiaTabTool=Nodia Tab Outil
+itemGroup.NodiaTabItem=Nodia Tab Item
+
+//Entity
+entity.wiwen.name=Wiwen
+
+//Orbe
+item.fire_orbe.name=Orbe de Feu
+item.water_orbe.name=Orbe d'eau
+item.earth_orbe.name=Orbe de Terre
+item.wind_orbe.name=Orbe de Vent
+
+//Potion Stick
+item.potion_stick_tier_1.name=Bâton de Potion (Tier 1)
+item.potion_geme.name=Geme de potion
+
+//Item
+item.saphir.name=Saphir
+item.ruby.name=Ruby
+item.anxite.name=Anxite
+item.nodium.name=Nodium
+item.anxiteinfected.name=Anxite Infecté
+
+//Item Armor
+item.saphir_helmet.name=Casque en Saphir
+item.saphir_chestplate.name=Plastron en Saphir
+item.saphir_leggings.name=Jambières en Saphir
+item.saphir_boots.name=Bottes en Saphir
+item.ruby_helmet.name=Casque en Ruby
+item.ruby_chestplate.name=Plastron en Ruby
+item.ruby_leggings.name=Jambières en Ruby
+item.ruby_boots.name=Bottes en Ruby
+item.anxite_helmet.name=Casque en Anxite
+item.anxite_chestplate.name=Plastron en Anxite
+item.anxite_leggings.name=Jambières en Anxite
+item.anxite_boots.name=Bottes en Anxite
+item.nodium_helmet.name=Casque en Nodium
+item.nodium_chestplate.name=Plastron en Nodium
+item.nodium_leggings.name=Jambières en Nodium
+item.nodium_boots.name=Bottes en Nodium
+
+//Button
+menu.website=Site Web
+menu.connect=Se connecter à Nodia
+menu.vote=Voter
+menu.shop=Magasin
